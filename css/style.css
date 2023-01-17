@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+.container{
+    
+}
+
+.titulo{
+    font-size: 5rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.enlaces{
+    font-size: 1.5rem;
+}
+
+ul{
+    list-style: none;
+
+}
+
+.texto{
+    border: solid 0.1rem black ;
+    font-size: 2rem;
+}
