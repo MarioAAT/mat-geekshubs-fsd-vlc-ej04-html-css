@@ -1,24 +1,18 @@
-*{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-html{
-    font-size: 62.5%;
-}
 
-.container{
-    
-}
 
 .titulo{
-    font-size: 5rem;
+    font-size: 7vh;
     text-align: center;
     margin-top: 3rem;
+    background-color: tan;
 }
 
 .enlaces{
-    font-size: 1.5rem;
+    font-size: 15px;
+    height: 85vh;
+    width: 15vh;
+    float: left;
+
 }
 
 ul{
@@ -28,5 +22,8 @@ ul{
 
 .texto{
     border: solid 0.1rem black ;
-    font-size: 2rem;
+    font-size: 20px;
+    height: 85vh;
+    width: 95vh;
+    float: right;
 }
